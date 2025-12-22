@@ -1,0 +1,16 @@
+(1) Tell me about yourself 
+
+Hello, my name is Jitendra. I am a frontend engineer, and I enjoy working on complex problems. I like building user-friendly and efficient web applications.
+
+I started my career by working on enterprise applications. During that time, I was responsible for frontend features, 
+which helped me understand how to build stable and reliable applications for production use.
+
+Over time, I realized that frontend development is the area I want to focus on. Since then, I have been working mainly with React and Next.js.
+
+In my current role, I work closely with designers and backend engineers, and I take ownership of frontend features from design to production. 
+At present, I am working on migrating the checkout process to improve performance on latest tech stack like Next JS Express JS Commetcetool 
+
+
+I like taking ownership of my work, learning continuously, and building frontend systems that scale well as products grow. 
+ 
+I believe my experience and interest in frontend development make me a good fit for this role.
