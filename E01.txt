@@ -14,3 +14,18 @@ At present, I am working on migrating the checkout process to improve performanc
 I like taking ownership of my work, learning continuously, and building frontend systems that scale well as products grow. 
  
 I believe my experience and interest in frontend development make me a good fit for this role.
+
+
+(2) Your Current Role & Typical Day ?
+
+In my current role, my day usually starts with the daily Scrum meeting. In the Scrum call, we discuss what was completed yesterday, what we are planning to do today, and if there are any blockers.
+
+After Scrum, I usually start working on my assigned tasks. This includes developing new frontend features, fixing bugs, or working on ongoing initiatives like checkout migration.
+
+I also spend time reviewing merge requests from other team members. While reviewing MRs, I focus on code quality, performance, readability, and making sure best practices are followed.
+
+I regularly mentor junior developers by helping them understand requirements, reviewing their code, and guiding them on better implementation approaches.
+
+During the day, I also attend calls with clients, designers, or backend teams to discuss requirements, clarify doubts, and provide updates on progress.
+
+Towards the end of the day, I usually check the status of tasks, respond to messages, and plan the next steps for the following day.
