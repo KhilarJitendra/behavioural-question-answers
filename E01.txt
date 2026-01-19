@@ -29,3 +29,35 @@ I regularly mentor junior developers by helping them understand requirements, re
 During the day, I also attend calls with clients, designers, or backend teams to discuss requirements, clarify doubts, and provide updates on progress.
 
 Towards the end of the day, I usually check the status of tasks, respond to messages, and plan the next steps for the following day.
+
+(3) Challenging Recent Task ?
+
+Topic: Address management in checkout (VCA project)
+
+Situation:
+In the Van Cleef & Arpels e-commerce project, the checkout flow had issues with address handling. 
+Different countries had different address formats, and this was causing validation errors and user drop-offs during checkout.
+
+Task:
+My task was to fix and improve the address management part of the checkout, so that it worked correctly for multiple countries and was easy to maintain.
+
+Action:
+I refactored the address form into a reusable React component and moved country-specific validation logic into a custom hook.
+I worked with the backend team to clearly understand required fields for each country.
+I also added proper error handling and updated E2E tests to cover different address scenarios.
+
+Result:
+After this change, address-related checkout issues reduced significantly.
+The code became easier to maintain, and adding support for new countries became faster and safer.
+
+Tech - 
+
+From a production point of view in Next.js, I separated the address form UI into a reusable React component, moved country-specific validation into a custom hook using config-based rules, 
+coordinated with backend teams to align on required fields, ensured final validation on the server, and added E2E tests to safely handle multiple country address scenarios.
+
+
+
+
+
+
+
