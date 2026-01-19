@@ -56,6 +56,15 @@ From a production point of view in Next.js, I separated the address form UI into
 coordinated with backend teams to align on required fields, ensured final validation on the server, and added E2E tests to safely handle multiple country address scenarios.
 
 
+(4) Conflict Resolve - 
+
+
+- When a conflict happens, I first try to clearly understand both sides by listening carefully to everyone involved.
+- I focus on the problem, not on the person, and ask questions to understand the real concern—whether it is timelines, performance, or business impact.
+- I then suggest a solution based on data, best practices, or trade-offs, and align it with product and technical goals.
+- If needed, I involve the right stakeholders early to avoid delays.
+- The goal is always to reach a decision that is best for the product and the team, while keeping communication respectful and transparent.
+
 
 
 
