@@ -67,6 +67,11 @@ coordinated with backend teams to align on required fields, ensured final valida
 
 
 
+(5) Tell me about a recent work you are proud of
+(6) Tell me about a challenging task you worked on
+(7) Tell me about a time you disagreed with a teammate or stakeholder
+(8) Tell me about a time you made a mistake
+(9) Tell me about a time you took ownership / went beyond your role
 
 
 
